@@ -1,0 +1,114 @@
+=== BATTLE ROYALE RESULT ===
+
+Winner:
+A5 (HP:63/100, Class:Balanced, Wpn:Bow L6, Atk:27, Def:10, Spd:10) @(2,2)
+
+=== OPERATIONS LOG (last 108 events) ===
+R0: Placed AI-1 at (7,8)
+R0: Placed AI-2 at (5,2)
+R0: Placed AI-3 at (5,4)
+R0: Placed AI-4 at (2,5)
+R0: Placed AI-5 at (3,3)
+R0: Placed AI-6 at (6,9)
+R0: Placed AI-7 at (5,6)
+R0: Placed AI-8 at (9,7)
+R1: AI-3 moved to (4,4)
+R1: AI-4 moved to (2,5)
+R1: AI-6 moved to (6,8)
+R1: AI-2 moved to (5,2)
+R1: AI-5 moved to (3,4)
+R1: AI-1 moved to (7,7)
+R1: AI-7 moved to (4,6)
+R1: AI-8 moved to (9,6)
+R2: AI-3 moved to (4,4)
+R2: AI-4 moved to (2,4)
+R2: AI-6 moved to (6,8)
+R2: AI-2 moved to (5,2)
+R2: AI-5 moved to (4,4)
+R2: AI-3 beat AI-5 for 37 dmg
+R2: AI-1 moved to (7,6)
+R2: AI-7 moved to (4,6)
+R2: AI-8 moved to (9,6)
+R3: Map shrunk to 0..8
+R3: AI-6 died to shrink
+R3: AI-8 died to shrink
+R3: AI-3 moved to (5,4)
+R3: AI-4 moved to (2,4)
+R3: AI-2 moved to (5,3)
+R3: AI-5 moved to (3,4)
+R3: AI-1 moved to (7,6)
+R3: AI-7 moved to (3,6)
+R4: AI-3 moved to (5,4)
+R4: AI-4 moved to (1,4)
+R4: AI-2 moved to (5,3)
+R4: AI-5 moved to (4,4)
+R4: AI-1 moved to (6,6)
+R4: AI-7 moved to (3,5)
+R5: AI-3 moved to (6,4)
+R5: AI-4 moved to (0,4)
+R5: AI-2 moved to (5,3)
+R5: AI-5 moved to (3,4)
+R5: AI-1 moved to (5,6)
+R5: AI-7 moved to (4,5)
+R6: Map shrunk to 0..7
+R6: AI-3 moved to (5,4)
+R6: AI-4 moved to (0,4)
+R6: AI-2 moved to (5,3)
+R6: AI-5 moved to (3,3)
+R6: AI-1 moved to (5,5)
+R6: AI-7 moved to (4,4)
+R7: AI-3 moved to (4,4)
+R7: AI-3 beat AI-7 for 37 dmg
+R7: AI-4 moved to (0,4)
+R7: AI-2 moved to (6,3)
+R7: AI-2 equipped Sword L2
+R7: AI-5 moved to (2,3)
+R7: AI-1 moved to (4,5)
+R7: AI-7 moved to (4,4)
+R7: AI-3 beat AI-7 for 37 dmg
+R8: AI-3 moved to (3,4)
+R8: AI-4 moved to (0,3)
+R8: AI-2 moved to (7,3)
+R8: AI-5 moved to (2,3)
+R8: AI-1 moved to (4,4)
+R8: AI-7 beat AI-1 for 1 dmg
+R8: AI-7 moved to (3,4)
+R8: AI-3 beat AI-7 for 37 dmg
+R8: AI-3 eliminated AI-7 and leveled up.
+R9: Map shrunk to 0..6
+R9: AI-2 died to shrink
+R9: AI-3 moved to (3,4)
+R9: AI-4 moved to (0,3)
+R9: AI-4 equipped Sword L2
+R9: AI-5 moved to (1,3)
+R9: AI-5 equipped Bow L3
+R9: AI-1 moved to (3,4)
+R9: AI-3 beat AI-1 for 44 dmg
+R10: AI-3 moved to (3,4)
+R10: AI-3 beat AI-1 for 44 dmg
+R10: AI-4 moved to (1,3)
+R10: AI-5 beat AI-4 for 56 dmg
+R10: AI-5 moved to (2,3)
+R10: AI-1 moved to (2,4)
+R11: AI-3 moved to (3,3)
+R11: AI-4 moved to (1,3)
+R11: AI-5 moved to (2,3)
+R11: AI-1 moved to (2,4)
+R12: Map shrunk to 0..5
+R12: AI-3 moved to (3,2)
+R12: AI-4 moved to (2,3)
+R12: AI-5 beat AI-4 for 56 dmg
+R12: AI-5 eliminated AI-4 and leveled up.
+R12: AI-5 moved to (2,2)
+R12: AI-1 moved to (2,3)
+R13: AI-3 moved to (3,2)
+R13: AI-5 moved to (2,2)
+R13: AI-1 moved to (2,3)
+R14: AI-3 moved to (2,2)
+R14: AI-5 beat AI-3 for 63 dmg
+R14: AI-5 moved to (2,2)
+R14: AI-5 beat AI-3 for 63 dmg
+R14: AI-5 eliminated AI-3 and leveled up.
+R14: AI-1 moved to (2,2)
+R14: AI-5 beat AI-1 for 68 dmg
+R14: AI-5 eliminated AI-1 and leveled up.
